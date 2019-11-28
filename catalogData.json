@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 [{
     "id": 123,
     "title": "Ноутбук",
+=======
+[
+  {
+    "id_product": 123,
+    "product_name": "Ноутбук",
+>>>>>>> 78a0d122078a1db756388b9df6eb83e91f14d0f9
     "price": 45600,
     "img": "https://placehold.it/200x150",
     "cartImg": "https://placehold.it/100x80"
